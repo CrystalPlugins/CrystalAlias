@@ -1,0 +1,2 @@
+# CrystalAlias
+Command Alias Plugin
